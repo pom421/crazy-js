@@ -29,7 +29,7 @@ console.log(b)
 Différents sens des caractères spéciaux
 
 () => invocation de fonction / paramètres d'une fonction / condition (if, for) / délimitation d'une expression plutôt qu'une déclaration
-[] => index d'un tableau / accès à une propriété calculée d'un objet
+[] => index d'un tableau / accès à une propriété calculée d'un objet / création d'un tableau littéral
 {} => création d'un bloc / création d'un objet littéral
 
 */
